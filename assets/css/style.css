@@ -45,26 +45,26 @@ header nav ul li a {
 }
 
 footer {
-    background: #fce138;
-    width: 100%;
-    padding: 40px 35px;
+  background: #fce138;
+  width: 100%;
+  padding: 40px 35px;
 }
 
 footer h2 {
-    display: inline;
-    color: #024e76;
-    font-size: 30px;
-    margin: 0;
+  display: inline;
+  color: #024e76;
+  font-size: 30px;
+  margin: 0;
 }
 
 footer div {
-    float: right;
-    line-height: 1.5;
-    text-align: right;
+  float: right;
+  line-height: 1.5;
+  text-align: right;
 }
 
 footer a {
-    color: #024e76;
+  color: #024e76;
 }
 
 section {
@@ -88,13 +88,13 @@ section {
   width: 500px;
   color: #024e76;
   position: absolute;
-  bottom: 0px;
-  right: 0px;
+  bottom: 120px;
+  right: 140px;
 }
 
 .hero-form h3 {
   font-size: 24px;
-  margin: 5px 0 15px 0;
+  margin: 0;
 }
 
 .hero-form p {
@@ -109,4 +109,8 @@ section {
   color: #024e76;
   width: 100%;
   margin-bottom: 15px;
+}
+
+.hero-form label {
+  margin: 0 5px;
 }
