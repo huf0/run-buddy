@@ -127,7 +127,7 @@ section {
 .intro {
   text-align: center;
 }
- 
+
 .intro p {
   line-height: 1.7;
   color: #39a6b2;
@@ -153,7 +153,7 @@ section {
 .primary-border {
   border-color: #fce138;
 }
- 
+
 .secondary-border {
   border-color: #39a6b2;
 }
@@ -180,4 +180,30 @@ section {
 
 .steps span {
   font-size: 38px;
+}
+
+.trainers {
+  text-align: center;
+}
+
+.trainer {
+  text-align: center;
+  width: 900px;
+  margin: 0 auto 30px auto;
+  background: #024e76;
+  color: #fce138;
+  overflow: auto
+}
+
+.trainer img {
+  width: 35%;
+  float: left;
+  overflow: auto
+}
+
+.trainer-bio {
+  padding: 35px;
+  float: left;
+  width: 65%;
+  overflow: auto
 }
